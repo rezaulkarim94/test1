@@ -1,2 +1,49 @@
-hi man
-giw are tiyr
+...........................................
+Git:
+...........................................
+Git is a version control system or source code management tool.
+...........................................
+Git command:......
+1.to get git version......
+git --version
+2.Create represotori in git...git initial
+git init
+3.git configure
+git config --global user.name "rezaulkarim"
+git config --global user.password "rezaul"
+4.git confiure check
+git config --global user.name
+5.file Create
+touch text.txt
+6.file open
+Notepad text.txt
+git status
+7.Untract file ke tract korthe hobe....
+git add text.txt 
+or
+git add .
+8.Commit means remine by message......
+git commit -m "file change"
+9.branching need team work is help full for distribution work
+10.branch create
+git branch branch2
+11.brahch show
+bit branch
+12.change branch
+git checkout branch2
+13.add file master to do marge.....others not add file in master
+git marge branch2
+14.list of file
+ls -a
+
+.........................................
+Git Hub
+.........................................
+git hub means popular server application of git.
+.........................................
+gir hub account and create a new repository then insert a project
+git init
+git add
+git commit
+git pull origin master
+branch create in github.............
